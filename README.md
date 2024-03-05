@@ -1,6 +1,6 @@
-# Wakaja Website
+# Template Next.js
 
-This is the source code for the Wakaja website. It is a Next.js project that uses TypeScript, Tailwind CSS.
+This is the template code for the NextJS. It is a Next.js project that uses TypeScript, Tailwind CSS.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
